@@ -1,0 +1,9 @@
+useState = premetive type, one or two transitions, local
+
+useReducer = for Object or Array, too many transitions, complex, global
+
+useCallback = cache of the function 
+
+useMemo = cache of the result by invoked function
+
+useEffect = use for side effects 
